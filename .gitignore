@@ -1,0 +1,10 @@
+.buildpath
+.idea/
+.project
+Gemfile.lock
+configs/test*
+coverage/
+pkg/
+rallylog.log*
+reldir*
+test_configuration_helper.rb
